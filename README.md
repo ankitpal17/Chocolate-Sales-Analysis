@@ -1,5 +1,5 @@
 # Chocolate-Sales-Analysis 
-Performed quick statistics
-Conditional Formatting
-Created Pivot Tables
-Used DAX Measures
+Quick Statistics
+Performed EDA using Conditional Formatting
+Created Table using Pivot Tables
+Made Dynmaic Country Level Sales Report
